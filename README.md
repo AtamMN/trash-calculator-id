@@ -64,7 +64,7 @@ Sebelum memulai instalasi, pastikan perangkat Anda memiliki:
 1. **Clone repository**
 
 ```bash
-git clone https://github.com/username/daur.in.git](https://github.com/AtamMN/trash-calculator-id
+git clone https://github.com/AtamMN/trash-calculator-id
 cd kalkulator-sampah
 ```
 
